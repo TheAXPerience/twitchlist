@@ -3,6 +3,8 @@ A test repository for a React app that makes use of the Twitch API
 
 Reference: https://dev.twitch.tv/docs/api/reference/
 
+Reactstrap reference: https://reactstrap.github.io/?path=/story/home-installation--page
+
 Things of note to try:
 * Get channel information
 * Get followed channels
